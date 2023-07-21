@@ -2,7 +2,7 @@
 const allCoffees = document.getElementById('all-coffees')
 
 // 2. Fetch the API to get all coffees
-fetch('http://api.sampleapis.com/coffee/hot')
+fetch('https://api.sampleapis.com/coffee/hot')
 	.then(coffees => coffees.json()) // format the data into json()
 	.then(data => {
 		// 3. iterate of the clean data from the json format
