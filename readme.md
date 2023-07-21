@@ -1,9 +1,15 @@
-# Coffees Lab - Local API with JSON data
+# Get Coffees Lab 
+## Fetch from SampleAPIs
 
-Created with plain HTML / CSS / Javascript pulling menu items from local API
-
-1. Clone Repo
-2. Copy data to local API from Sample apis https://api.sampleapis.com/coffee/hot 
-3. Using Fetch populate all menu items from local API
+Created with plain HTML / CSS / Javascript pulling menu items from SampleAPIs
 
 ![](./screenshot.png)
+
+
+## Topics Covered
+1. How to fetch (GET) data from an online API 
+2. How to display an array of objects into the DOM via javascript
+
+Live site here: 
+
+https://coding-mentorship-program.github.io/javascript-fetch-data-sampleapis/
